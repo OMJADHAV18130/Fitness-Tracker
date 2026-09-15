@@ -1,9 +1,8 @@
 # 🏋️ Fitness Tracker
 
-A backend application built with **Spring Boot** that helps users manage their fitness activities and receive activity-based recommendations.
+**A Spring Boot fitness tracking REST API with JWT authentication, Spring Data JPA, Spring Security, activity-based recommendations, and Swagger/OpenAPI documentation.**
 
-The application provides secure user authentication using **JWT**, database interaction through **Spring Data JPA**, and API documentation through **Swagger/OpenAPI**.
-
+That is much better for recruiters because it immediately communicates your **Java backend + security + database + REST API** skills
 ---
 
 ## 🚀 Features
