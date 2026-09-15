@@ -1,8 +1,6 @@
 # 🏋️ Fitness Tracker
 
 **A Spring Boot fitness tracking REST API with JWT authentication, Spring Data JPA, Spring Security, activity-based recommendations, and Swagger/OpenAPI documentation.**
-
-That is much better for recruiters because it immediately communicates your **Java backend + security + database + REST API** skills
 ---
 
 ## 🚀 Features
